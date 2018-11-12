@@ -1,3 +1,6 @@
 [submodule "madeso"]
 	path = madeso
 	url = https://github.com/madeso/spelsylt2018
+[submodule "p1xelHer0"]
+	path = p1xelHer0
+	url = https://github.com/p1xelHer0/love2d-platformer
