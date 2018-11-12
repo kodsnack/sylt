@@ -1,0 +1,3 @@
+[submodule "madeso"]
+	path = madeso
+	url = https://github.com/madeso/spelsylt2018
