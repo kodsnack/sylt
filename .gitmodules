@@ -4,3 +4,6 @@
 [submodule "p1xelHer0"]
 	path = p1xelHer0
 	url = https://github.com/p1xelHer0/love2d-platformer
+[submodule "littleandi"]
+	path = littleandi
+	url = https://github.com/LittleAndi/spelsylt-2018
