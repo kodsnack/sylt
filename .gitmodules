@@ -7,3 +7,6 @@
 [submodule "littleandi"]
 	path = littleandi
 	url = https://github.com/LittleAndi/spelsylt-2018
+[submodule "XeroXer"]
+	path = XeroXer
+	url = https://github.com/XeroXer/Love2d-Kodsnacks-Game-Jam
