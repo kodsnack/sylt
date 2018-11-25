@@ -10,3 +10,6 @@
 [submodule "XeroXer"]
 	path = XeroXer
 	url = https://github.com/XeroXer/Love2d-Kodsnacks-Game-Jam
+[submodule "placeholder_climb"]
+	path = placeholder_climb
+	url = git@github.com:Fronkan/placeholder_climb.git
