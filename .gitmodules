@@ -13,3 +13,6 @@
 [submodule "placeholder_climb"]
 	path = placeholder_climb
 	url = git@github.com:Fronkan/placeholder_climb.git
+[submodule "forslund"]
+	path = forslund
+	url = https://github.com/forslund/mustasch.git
