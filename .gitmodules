@@ -16,3 +16,6 @@
 [submodule "forslund"]
 	path = forslund
 	url = https://github.com/forslund/mustasch.git
+[submodule "emlun"]
+	path = emlun
+	url = https://github.com/emlun/kodsnack-spelsylt.git
